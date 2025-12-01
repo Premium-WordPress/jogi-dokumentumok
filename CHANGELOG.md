@@ -1,5 +1,14 @@
 # Changelog
 
+## 16.1
+
+**Kiadás dátuma: 2025-12-01**
+
+### EGYÉB
+
+- CLAUDE.md és AGENTS.md fájlok hozzáadása.
+- A README.md kisebb változtatása.
+
 ## 16.0
 
 **Kiadás dátuma: 2025-12-01**
