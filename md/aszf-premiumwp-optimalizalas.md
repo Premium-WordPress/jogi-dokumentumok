@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek - Optimalizálás
-**VERZIÓ: 4.0 | UTOLSÓ FRISSÍTÉS: 2025.12.08.**
+**VERZIÓ: 4.1 | UTOLSÓ FRISSÍTÉS: 2025.12.08.**
 
 Jelen szerződésben nem részletezett kérdésekben, illetve vitás esetekben a Ptk. vonatkozó rendelkezéseit kell alkalmazni, egyéb esetben a Pécsi Városi Bíróság illetékes.
 
@@ -15,9 +15,9 @@ Jelen szerződésben nem részletezett kérdésekben, illetve vitás esetekben a
 - **Telefon:** +36 70 209 3432
 - **Email:** ugyfelszolgalat@premiumwp.hu
 
-### 1.2. Megrendelő
+### 1.2. Előfizető vagy Megrendelő
 
-A megrendeléskor megadott természetes és/vagy jogi személy. Céges megrendelés esetén a kapcsolattartásra megjelölt természetes személy jogosult eljárni a megrendelésben megadott jogi személy nevében és képviseletében.
+A Megrendelés leadásánál megadott természetes és/vagy jogi személy. Céges Megrendelés esetén a kapcsolati adatoknál megadott természetes személy jogosult eljárni és szerződést kötni a Megrendelésben megadott jogi személy nevében.
 
 ## 2. Szerződéskötés
 

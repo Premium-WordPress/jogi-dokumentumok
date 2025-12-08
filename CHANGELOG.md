@@ -1,5 +1,17 @@
 # Changelog
 
+## 19.1
+
+**Kiadás dátuma: 2025-12-08**
+
+### Általános Szerződési Feltételek - Optimalizálás | 4.1
+
+- Megrendelő leírásának kisebb átírása, hogy megegyezzen a többi ÁSzF-fel.
+
+### Általános Szerződési Feltételek - Honlapszolgáltatás | 1.1
+
+- Elírás javítása.
+
 ## 19.0
 
 **Kiadás dátuma: 2025-12-08**
