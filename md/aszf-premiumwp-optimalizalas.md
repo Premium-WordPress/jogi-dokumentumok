@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek - Optimalizálás
-**VERZIÓ: 3.0 | UTOLSÓ FRISSÍTÉS: 2025.12.01.**
+**VERZIÓ: 4.0 | UTOLSÓ FRISSÍTÉS: 2025.12.08.**
 
 Jelen szerződésben nem részletezett kérdésekben, illetve vitás esetekben a Ptk. vonatkozó rendelkezéseit kell alkalmazni, egyéb esetben a Pécsi Városi Bíróság illetékes.
 
@@ -91,6 +91,8 @@ A Megrendelő az alapszolgáltatás mellé az alábbi kiegészítő szolgáltat�
 
 A szolgáltatások díjazása az aktuális árlistának megfelelően történik, amely a szerződéskötéskor kerül meghatározásra. A díjak nettó összegek, amelyekhez a mindenkori ÁFA hozzáadódik.
 
+Amennyiben a Megrendelő a munkákat először staging (teszt) környezetben kéri elvégezni, 50%-os felár kerül felszámításra az alapdíjon felül.
+
 ### 4.2. Fizetési ütemezés
 
 A szolgáltatási díj két részletben fizetendő:
@@ -118,10 +120,6 @@ A Szolgáltató a munkát az alábbi feltételek együttes teljesülését köve
 ### 5.2. Teljesítési határidő
 
 A Szolgáltató a 5.1. pontban meghatározott feltételek teljesülésétől számított 14 naptári napon belül vállalja a megrendelt szolgáltatások teljesítését.
-
-### 5.3. Staging környezet
-
-Amennyiben a Megrendelő a munkákat először staging (teszt) környezetben kéri elvégezni, 50%-os felár kerül felszámításra az alapdíjon felül.
 
 ## 6. Szükséges hozzáférések
 
@@ -258,38 +256,72 @@ A titoktartási kötelezettség a szerződés megszűnését követően is, idő
 
 Megrendelő nem oszthatja meg a weboldalt vagy annak részleteit referenciaként a weboldalain és üzleti közösségi csatornáin Megrendelő előzetes írásbeli engedélye nélkül.
 
-### 11.4 GDPR megfelelés
+## 12. Adatkezelés
 
-A személyes azonosításra alkalmas adatokat Szolgáltató a lehető legnagyobb gondossággal és biztonsággal kezeli. Az adatmentést megfelelő biztonsággal tárolja a Szolgáltatás és az azt követő támogatási időszak alatt, ezt követően pedig törli a saját tárhelyén.
+Felek a Szerződés teljesítése során tudomásukra jutott személyes azonosításra alkalmas adatokat a mindenkor hatályos adatvédelmi jogszabályoknak megfelelően kezelik, különösen, de nem kizárólagosan a Természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról szóló Európai Parlament és a Tanács 2016/679 Rendelete (GDPR), az Információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerint.
 
-## 12. A szerződés módosítása és megszűnése
+A személyes azonosításra alkalmas adatokat Szolgáltató a lehető legnagyobb gondossággal és biztonsággal kezeli.
 
-### 12.1. Módosítás
+Az adatmentést megfelelő biztonsággal tárolja a Szolgáltatás és az azt követő támogatási időszak alatt, ezt követően pedig törli a saját tárhelyén.
+
+### 12.1 Adatkezelés jogalapja
+
+#### Számlázás
+
+**Az adatkezelés célja:** A Szolgáltató által nyújtott szolgáltatások Megrendelő által történő igénybevétele, a szolgáltatások, áruk ellenértékének meghatározása és számlázása.
+
+**Az adatkezelés jogalapja:** a számvitelről szóló 2000.évi C. törvény 69.§. (1) és (2) bekezdésének rendelkezései szerinti jogi kötelezettség teljesítése (GDPR 6.cikk (1) bek. c) pontja).
+
+**A kezelt személyes adatok köre:** Megrendelő vezetékneve, keresztneve, email címe.
+
+**Az adatkezelés időtartama:** A személyes adatok Megrendelő által történő megadásának időpontjától az adott üzleti évről készített beszámoló, üzleti jelentés, illetve könyvviteli elszámolás elkészítésétől számított 8 év.
+
+**Az adatszolgáltatás elmaradásának lehetséges következményei:** Szolgáltató z Megrendelő nevére/cégére nem tud számlát kiállítani.
+
+#### Üzleti kapcsolattartás
+
+**Az adatkezelés célja:** Üzleti kommunikáció a partnereinkkel.
+
+**Az adatkezelés jogalapja:** A szerződés teljesítéséhez vagy a cégek közötti kapcsolattartáshoz fűződő jogos érdek (GDPR 6. cikk (1) bekezdés f) pont).
+
+**Az adatkezelő jogos érdeke:** Üzletmenet folytonosság.
+
+**A kezelt személyes adatok köre:** Kapcsolattartó személy vezetékneve, keresztneve, üzleti pozíciója, telefonszáma, email címe.
+
+Ezen üzleti kapcsolataink elérhetőségi adatait kizárólag a partnercégekkel történő üzleti együttműködés kialakításának és fenntartásának megkönnyítése céljából tároljuk.
+
+**Adatkezelés visszavonása:** A hozzájárulást az ugyfelszolgalat@premiumwp.hu email címre küldött üzenettel bármikor vissza lehet vonni.
+
+**Az adatkezelés időtartama:** Az üzleti kapcsolataink elérhetőségi adatait legalább évente ellenőrizzük és eltávolítjuk a rendszerből azokat, amelyek már nem időszerűek. A partner kérése esetén adatait módosítjuk vagy eltávolítjuk rendszerünkből.
+
+## 13. A szerződés módosítása és megszűnése
+
+### 13.1. Módosítás
 
 A szerződés csak írásban, mindkét fél által aláírva módosítható.
 
-### 12.2. Elállás
+### 13.2. Elállás
 
 A Megrendelő a munka megkezdéséig elállhat a szerződéstől. Ebben az esetben a már befizetett előleg nem kerül visszatérítésre, amennyiben a Szolgáltató már megkezdte az előkészítő munkákat.
 
-### 12.3. Rendkívüli felmondás
+### 13.3. Rendkívüli felmondás
 
 Súlyos szerződésszegés esetén bármelyik fél azonnali hatállyal felmondhatja a szerződést.
 
-## 13. Vegyes rendelkezések
+## 14. Vegyes rendelkezések
 
-### 13.1. Irányadó jog
+### 14.1. Irányadó jog
 
 A szerződésre a magyar jog az irányadó.
 
-### 13.2. Illetékesség
+### 14.2. Illetékesség
 
 A felek a szerződésből eredő jogviták rendezésére a Pécsi Járásbíróság, illetve hatáskörtől függően a Pécsi Törvényszék illetékességét kötik ki.
 
-### 13.3. Érvényesség
+### 14.3. Érvényesség
 
 Ha a szerződés valamely rendelkezése érvénytelen, az a többi rendelkezés érvényességét nem érinti.
 
-### 13.4. Teljesség
+### 14.4. Teljesség
 
 Jelen szerződés tartalmazza a felek teljes megállapodását, és hatályon kívül helyez minden korábbi szóbeli vagy írásbeli megállapodást.

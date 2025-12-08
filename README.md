@@ -5,6 +5,7 @@ Itt találhatóak a mindenkor aktuális jogi dokumentumok és azok előző verzi
 
 **Elérhető dokumentumok:**
 - Általános Szerződési Feltételek - Üzemeltetés
+- Általános Szerződési Feltételek - Honlapszolgáltatás
 - Általános Szerződési Feltételek - Optimalizálás
 - Vállalkozási Keretszerződés
 
@@ -21,17 +22,16 @@ Az utolsó frissítés dátuma minden esetben a dokumentumok tartalmi módosít�
 
 ## Jogi dokumentumok formátumai
 
-A jogi dokumentumok három formátumban készülnek:
+A jogi dokumentumok két formátumban készülnek:
 - A dokumentumok eredetileg .md, azaz Markdown formátumban készülnek, mely egy egyszerűsített szemantikus szerkesztői nyelv egyszerű szöveg formában elmentve.
 - Az .md formátumból generált .pdf, azaz Portable Document Format formátum, mely egy platform és felbontás független, kifejezetten dokumentumok (képek, szövegek, ábrák) tárolására alkalmas fájlformátum. A jogi dokumentumok ebben a formában érhetők el és tölthetők le a weboldalon.
-- Az .md formátumból egy HTML fájl is készül, ami a webes formázásokat tartalmazza, így teszi alkalmassá, hogy a weboldalon is közzé legyenek téve a dokumentumok a hozzájuk kapcsolódó menüpontok alatt.
 
 A Markdown és Portable Document Format konvertálásához a következő online szolgáltatást használjuk:
 https://www.markdowntopdf.com/
 
-## Formázási szabványok
+## Formázási szabályok
 
-A jogi dokumentumok egységes megjelenése érdekében az alábbi formázási szabványokat kell követni minden dokumentum szerkesztésekor. A referencia dokumentum: `md/aszf-premiumwp-optimalizalas.md`
+A jogi dokumentumok egységes megjelenése érdekében az alábbi formázási szabványokat kell követni minden dokumentum szerkesztésekor.
 
 ### Dokumentum struktúra
 

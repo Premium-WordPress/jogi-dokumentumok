@@ -1,5 +1,18 @@
 # Changelog
 
+## 19.0
+
+**Kiadás dátuma: 2025-12-08**
+
+### Általános Szerződési Feltételek - Optimalizálás | 4.0
+
+- Adatkezelés pont hozzáadása.
+
+### EGYÉB
+
+- A /html/ és /pdf/ mappa törlése, mert itt nincs ezekre szükség.
+- A README.md aktualizálása az új szerkezethez.
+
 ## 18.0
 
 **Kiadás dátuma: 2025-12-01**
