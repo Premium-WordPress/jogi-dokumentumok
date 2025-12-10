@@ -1,5 +1,13 @@
 # Changelog
 
+## 21.0
+
+**Kiadás dátuma: 2025-12-10**
+
+### Általános Szerződési Feltételek - Optimalizálás | 5.0
+
+- Az Adatkezelés kivezetése külön az Adatkezelési Tájékoztatóba.
+
 ## 20.0
 
 **Kiadás dátuma: 2025-12-09**

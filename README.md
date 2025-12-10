@@ -8,6 +8,8 @@ Itt találhatóak a mindenkor aktuális jogi dokumentumok és azok előző verzi
 - Általános Szerződési Feltételek - Honlapszolgáltatás
 - Általános Szerződési Feltételek - Optimalizálás
 - Vállalkozási Keretszerződés
+- Adatkezelési tájékoztató
+- Süti (cookie) szabályzat
 
 ## Verziószám
 
